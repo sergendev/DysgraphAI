@@ -31,4 +31,3 @@
  - [DSF](https://dsf.net.au/what-is-dysgraphia/) for the explanation of dysgraphia featured in the playground
  - [Sasmito Adibowo](https://github.com/adib) for his [blog post](https://cutecoder.org/programming/core-ml-swift-playgrounds/) on how to add `.mlmodel` files to Swift Playground
  
- ---
